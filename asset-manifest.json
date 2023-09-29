@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/karina-lage-portfolio/static/css/main.9dde5314.css",
+    "main.js": "/karina-lage-portfolio/static/js/main.92c13af3.js",
+    "static/media/logo.png": "/karina-lage-portfolio/static/media/logo.800466b847e7f1633de8.png",
+    "index.html": "/karina-lage-portfolio/index.html",
+    "main.9dde5314.css.map": "/karina-lage-portfolio/static/css/main.9dde5314.css.map",
+    "main.92c13af3.js.map": "/karina-lage-portfolio/static/js/main.92c13af3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dde5314.css",
+    "static/js/main.92c13af3.js"
+  ]
+}
