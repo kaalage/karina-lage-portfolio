@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/karina-lage-portfolio/static/css/main.9dde5314.css",
-    "main.js": "/karina-lage-portfolio/static/js/main.638fb79e.js",
+    "main.css": "/karina-lage-portfolio/static/css/main.3b0665c3.css",
+    "main.js": "/karina-lage-portfolio/static/js/main.c1aaad53.js",
+    "static/media/home-image.png": "/karina-lage-portfolio/static/media/home-image.00588352532d823d4b82.png",
     "static/media/logo.png": "/karina-lage-portfolio/static/media/logo.800466b847e7f1633de8.png",
+    "static/media/home-background.png": "/karina-lage-portfolio/static/media/home-background.006c227517252033a21a.png",
     "index.html": "/karina-lage-portfolio/index.html",
-    "main.9dde5314.css.map": "/karina-lage-portfolio/static/css/main.9dde5314.css.map",
-    "main.638fb79e.js.map": "/karina-lage-portfolio/static/js/main.638fb79e.js.map"
+    "main.3b0665c3.css.map": "/karina-lage-portfolio/static/css/main.3b0665c3.css.map",
+    "main.c1aaad53.js.map": "/karina-lage-portfolio/static/js/main.c1aaad53.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dde5314.css",
-    "static/js/main.638fb79e.js"
+    "static/css/main.3b0665c3.css",
+    "static/js/main.c1aaad53.js"
   ]
 }
