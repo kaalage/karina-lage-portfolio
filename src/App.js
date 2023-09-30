@@ -7,7 +7,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
-          <Route exact path="/" element={<Navbar />}></Route>
+          <Route exact path="/karina-lage-portfolio" element={<Navbar />}></Route>
         </Routes>
       </div>
     </Router>
