@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b0665c3.css",
-    "main.js": "/static/js/main.dca19ced.js",
-    "static/media/home-image.png": "/static/media/home-image.00588352532d823d4b82.png",
-    "static/media/logo.png": "/static/media/logo.800466b847e7f1633de8.png",
-    "static/media/home-background.png": "/static/media/home-background.006c227517252033a21a.png",
-    "index.html": "/index.html",
-    "main.3b0665c3.css.map": "/static/css/main.3b0665c3.css.map",
-    "main.dca19ced.js.map": "/static/js/main.dca19ced.js.map"
+    "main.css": "/karina-lage-portfolio/static/css/main.58087238.css",
+    "main.js": "/karina-lage-portfolio/static/js/main.0e484870.js",
+    "static/media/KarinaLageCV.pdf": "/karina-lage-portfolio/static/media/KarinaLageCV.4293baf58d5bc5d4150c.pdf",
+    "static/media/about-image.png": "/karina-lage-portfolio/static/media/about-image.a689d9229a9bcaae2859.png",
+    "static/media/home-image.png": "/karina-lage-portfolio/static/media/home-image.00588352532d823d4b82.png",
+    "static/media/logo.png": "/karina-lage-portfolio/static/media/logo.800466b847e7f1633de8.png",
+    "static/media/about-title.png": "/karina-lage-portfolio/static/media/about-title.c1edcebce023dfe934ba.png",
+    "static/media/about-background.png": "/karina-lage-portfolio/static/media/about-background.ccd59041e9527de164d6.png",
+    "static/media/home-background.png": "/karina-lage-portfolio/static/media/home-background.006c227517252033a21a.png",
+    "index.html": "/karina-lage-portfolio/index.html",
+    "main.58087238.css.map": "/karina-lage-portfolio/static/css/main.58087238.css.map",
+    "main.0e484870.js.map": "/karina-lage-portfolio/static/js/main.0e484870.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b0665c3.css",
-    "static/js/main.dca19ced.js"
+    "static/css/main.58087238.css",
+    "static/js/main.0e484870.js"
   ]
 }
