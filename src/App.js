@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from './Components/Navbar';
+import Home from './Components/Home';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
-          <Route exact path="/karina-lage-portfolio" element={<Navbar />}></Route>
+          <Route exact path="/karina-lage-portfolio" element={<Home />}></Route>
         </Routes>
       </div>
     </Router>
