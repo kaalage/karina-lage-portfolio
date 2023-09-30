@@ -126,6 +126,102 @@ nav {
 }
 
 
+/* ABOUT COMPONENT */
+.about-section-container {
+  margin-top: 8rem;
+  margin-bottom: 10rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about-background-image-container {
+  position: absolute;
+  z-index: -2;
+  top: 8rem;
+  left: -20rem;
+  margin-left: auto;
+}
+
+.about-section-image-container {
+  flex: 0.9;
+  margin-right: 1rem;
+}
+
+.about-heading {
+  margin-bottom: 0.5rem;
+  max-width: 40%;
+}
+
+.about-section-text-container {
+  flex: 1;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  line-height: 2.8;
+  font-weight: 300;   
+}
+
+.primary-text {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.about-buttons-container {
+  margin-top: 2rem;
+  display: flex;
+}
+
+.secondary-button {
+  background-color: #54A78B;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #161616;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.secondary-button:hover, .secondary-button:focus {
+  background-color: #a8a8a8;
+}
+
+.stack-icons button{
+display: inline-block;
+padding: 0.4rem 0.4rem;
+border: 0.1rem solid #ccc; 
+margin: 0.4rem;
+border-radius: 5px; 
+font-size: 1rem;
+background-color: transparent; 
+text-align: center;
+text-decoration: none;
+color: #333;
+}
+
+.icon {
+margin-right: 0.2rem;
+vertical-align: middle;
+}
+
+
 /* RESPONSIVENESS */
 @media (max-width: 1000px) {
   .navbar-links-container a {

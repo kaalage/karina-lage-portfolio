@@ -2,6 +2,8 @@ import React from 'react';
 import BannerBackground from "../Assets/home-background.png";
 import BannerImage from "../Assets/home-image.png";
 import Navbar from './Navbar';
+import About from "./About";
+import { Element } from 'react-scroll';
 
 const Home = () => {
   return (
@@ -27,6 +29,9 @@ const Home = () => {
             </div>
       </div>
       </div>
+      <Element name="about">
+          <About />
+      </Element>
     </div>
   );
 };
