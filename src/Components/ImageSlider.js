@@ -11,15 +11,15 @@ function ImageSlider() {
   const images = [
     {
       src: InnerImage1,
-      link: '/project1',
+      link: '/karina-lage-portfolio/project1',
     },
     {
       src: InnerImage2,
-      link: '/project2',
+      link: '/karina-lage-portfolio/project2',
     },
     {
       src: InnerImage3,
-      link: '/project3',
+      link: '/karina-lage-portfolio/project3',
     },
   ];
 
