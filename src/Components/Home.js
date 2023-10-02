@@ -2,6 +2,7 @@ import React from 'react';
 import BannerBackground from "../Assets/home-background.png";
 import BannerImage from "../Assets/home-image.png";
 import Navbar from './Navbar';
+import Projects from "./Projects";
 import About from "./About";
 import { Element } from 'react-scroll';
 
@@ -29,6 +30,9 @@ const Home = () => {
             </div>
       </div>
       </div>
+      <Element name="about">
+          <Projects />
+      </Element>
       <Element name="about">
           <About />
       </Element>
