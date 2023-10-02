@@ -24,7 +24,7 @@ const About = () => {
         <p className="primary-text">
         Hello! I'm a LaunchCode alumna and a lifelong learner who might have a thing or two for musical theatre shows (yes, I know how to sing Guns and Ships from Hamilton). 
         With a background in Production Engineering and a passion for <span style={{ textDecoration: 'underline' }}>innovation</span>, 
-        I bring a unique blend of technical, <span style={{ textDecoration: 'underline' }}>problem-solving</span> abilities, and <span style={{ textDecoration: 'underline' }}>adaptability</span> to every role.
+        I bring a blend of technical, <span style={{ textDecoration: 'underline' }}>problem-solving</span> abilities, and <span style={{ textDecoration: 'underline' }}>adaptability</span> to every role.
         </p>
         <p className="stack-icons">
         <button>
