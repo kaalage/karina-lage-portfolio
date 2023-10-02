@@ -4,7 +4,8 @@ import BannerImage from "../Assets/home-image.png";
 import Navbar from './Navbar';
 import Projects from "./Projects";
 import About from "./About";
-import { Element } from 'react-scroll';
+import Contact from "./Contact";
+import { Element, Link } from 'react-scroll';
 
 const Home = () => {
   return (
@@ -21,20 +22,29 @@ const Home = () => {
             A Full Stack Developer<br></br>
             based in Florianópolis.
           </h1>
+          <Link
+          to="projects-component"
+          spy={true}
+          smooth={true}
+          >
           <button className="primary-button">
             LET'S GET STARTED
           </button>
+          </Link>
         </div>
           <div className="home-image-section">
           <img src={BannerImage} alt="" />
             </div>
       </div>
       </div>
-      <Element name="about">
+      <Element name="projects">
           <Projects />
       </Element>
       <Element name="about">
           <About />
+      </Element>
+      <Element name="contact">
+          <Contact />
       </Element>
     </div>
   );
