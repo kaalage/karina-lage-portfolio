@@ -513,7 +513,6 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
     margin-right: 1rem;
     font-size: 1rem;
   }
-
   .home-bannerImage-container {
     max-width: 600px;
   }
@@ -523,55 +522,65 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
   .nav-logo-container {
     max-width: 140px;
   }
-
-  .navbar-links-container, .home-bannerImage-container, .primary-button {
+  .navbar-links-container, .home-bannerImage-container, .primary-button, .about-section-image-container, .projects-background-image-container, .about-background-image-container {
     display: none;
   }
-
   .navbar-menu-container {
     display: flex;
   }
-
   .home-banner-container {
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
   }
-
   .home-container{
     margin-bottom: 8rem;
   }
-
   .home-image-section {
     width: 100%;
     max-width: 400px;
   }
-
   .home-image-section {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-
   .primary-heading {
     margin-left: 0;
     max-width: 90%;
     text-align: center;
   }
-
   .home-text-section {
     justify-content: center;
     align-items: center;
     margin-top: 4rem;
   }
-
+  .project-heading {
+    max-width: 40%;
+    margin-bottom: 0;
+  }
+  .about-heading {
+    max-width: 30%;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+  }
+  .contact-heading{
+    max-width: 60%;
+    margin-top: 0rem;
+  }
   .App {
     max-width: 95vw;
   }
 }
 
 @media (max-width: 600px) {
-  .home-bannerImage-container, .primary-button {
+  .home-bannerImage-container, .primary-button, .projects-subheading, .line-separator, .home-bannerImage-container, .projects-background-image-container, .about-background-image-container {
     display: none;
   }
   .home-image-section {
@@ -585,8 +594,24 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
     max-width: 90%;
     font-size: 2rem;
   }
-  .home-container{
+  .home-container, .projects-section-container, .about-section-container{
     margin-bottom: 20%;
+  }
+  .project-heading, .contact-heading{
+    max-width: 50%;
+  }
+  .about-heading{
+    max-width: 35%;
+  }
+  .about-buttons-container{
+    margin: auto;
+  }
+  .secondary-button{
+    margin-top: 2rem;
+  }
+
+  .project-heading {
+    margin-bottom: 2rem;
   }
 }
 
