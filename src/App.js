@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import ProjectDetail1 from './Components/ProjectDetail1';
 import ProjectDetail2 from './Components/ProjectDetail2';
 import ProjectDetail3 from './Components/ProjectDetail3';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -14,8 +15,8 @@ function App() {
           <Route path="/karina-lage-portfolio/project1" element={<ProjectDetail1 />}></Route>
           <Route path="/karina-lage-portfolio/project2" element={<ProjectDetail2 />}></Route>
           <Route path="/karina-lage-portfolio/project3" element={<ProjectDetail3 />}></Route>
-          
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
