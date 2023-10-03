@@ -1,20 +1,35 @@
 {
   "files": {
-    "main.css": "/karina-lage-portfolio/static/css/main.58087238.css",
-    "main.js": "/karina-lage-portfolio/static/js/main.0e484870.js",
-    "static/media/KarinaLageCV.pdf": "/karina-lage-portfolio/static/media/KarinaLageCV.4293baf58d5bc5d4150c.pdf",
+    "main.css": "/karina-lage-portfolio/static/css/main.c636192e.css",
+    "main.js": "/karina-lage-portfolio/static/js/main.8e2e960a.js",
+    "static/media/starwars-vehicles-video.mp4": "/karina-lage-portfolio/static/media/starwars-vehicles-video.c5bdcb650b172fa38a7d.mp4",
+    "static/media/inventory-tracker-video.mp4": "/karina-lage-portfolio/static/media/inventory-tracker-video.3fd7824fea54ccb30666.mp4",
+    "static/media/techjobs-video.mp4": "/karina-lage-portfolio/static/media/techjobs-video.d828321927854420267a.mp4",
+    "static/media/KarinaLageCV.pdf": "/karina-lage-portfolio/static/media/KarinaLageCV.a47185c6b1dbc39aca80.pdf",
+    "static/media/boxicons.svg": "/karina-lage-portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/inner-image1.png": "/karina-lage-portfolio/static/media/inner-image1.9b0cb1d446c5dba4881c.png",
     "static/media/about-image.png": "/karina-lage-portfolio/static/media/about-image.a689d9229a9bcaae2859.png",
+    "static/media/boxicons.eot": "/karina-lage-portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/karina-lage-portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/karina-lage-portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
     "static/media/home-image.png": "/karina-lage-portfolio/static/media/home-image.00588352532d823d4b82.png",
+    "static/media/boxicons.woff2": "/karina-lage-portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/outer-image.png": "/karina-lage-portfolio/static/media/outer-image.6998d4d07a984a55c6a9.png",
+    "static/media/inner-image2.png": "/karina-lage-portfolio/static/media/inner-image2.c7cbe8c0362f9e0de3f5.png",
+    "static/media/contact-title.png": "/karina-lage-portfolio/static/media/contact-title.321c32801bb6367f396d.png",
     "static/media/logo.png": "/karina-lage-portfolio/static/media/logo.800466b847e7f1633de8.png",
+    "static/media/projects-title.png": "/karina-lage-portfolio/static/media/projects-title.41c5c822e8c4a27df490.png",
     "static/media/about-title.png": "/karina-lage-portfolio/static/media/about-title.c1edcebce023dfe934ba.png",
+    "static/media/inner-image3.png": "/karina-lage-portfolio/static/media/inner-image3.7adec372e287018db429.png",
+    "static/media/projects-background.png": "/karina-lage-portfolio/static/media/projects-background.9846829bac3f6e1a5627.png",
     "static/media/about-background.png": "/karina-lage-portfolio/static/media/about-background.ccd59041e9527de164d6.png",
     "static/media/home-background.png": "/karina-lage-portfolio/static/media/home-background.006c227517252033a21a.png",
     "index.html": "/karina-lage-portfolio/index.html",
-    "main.58087238.css.map": "/karina-lage-portfolio/static/css/main.58087238.css.map",
-    "main.0e484870.js.map": "/karina-lage-portfolio/static/js/main.0e484870.js.map"
+    "main.c636192e.css.map": "/karina-lage-portfolio/static/css/main.c636192e.css.map",
+    "main.8e2e960a.js.map": "/karina-lage-portfolio/static/js/main.8e2e960a.js.map"
   },
   "entrypoints": [
-    "static/css/main.58087238.css",
-    "static/js/main.0e484870.js"
+    "static/css/main.c636192e.css",
+    "static/js/main.8e2e960a.js"
   ]
 }
