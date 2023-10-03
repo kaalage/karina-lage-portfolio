@@ -10,7 +10,7 @@ const ProjectDetail2 = () => {
         <div className='column'>
           <div className='project-detail-container'>
             <h2>Inventory Tracker</h2>
-            <h3>Overview</h3>
+            <h3>Overview (<a href="https://github.com/kaalage/inventory-tracker-integration">GitHub</a>)</h3>
             <p className='project-detail-overview'>Can you imagine a world without coffee? You just can’t, right? 
             As a small coffee shop owner, there are endless pieces to keep track of in order to succeed, 
             and one of the major parts is ensuring you have enough supply to meet the demand of your loyal customers.
@@ -51,6 +51,7 @@ const ProjectDetail2 = () => {
           GitHub collaboration taught us pull requests and conflict resolution. 
           Crafting REST API endpoints and sharing data among Angular components improved our development skills. 
           Establishing frontend-backend communication paths enhanced our project's efficiency.
+          <a href="">GitHub Project Link</a>
           </p>
       </div>
       </div>

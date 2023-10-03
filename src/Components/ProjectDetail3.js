@@ -10,7 +10,7 @@ const ProjectDetail3 = () => {
       <div className='column'>
         <div className='project-detail-container'>
           <h2>Tech Jobs</h2>
-          <h3>Overview</h3>
+          <h3>Overview (<a href="https://github.com/St-Louis-Women-March-2022/java-assignment-4-techjobs-persistent-edition-kaalage">GitHub</a>)</h3>
           <p className='project-detail-text'>
           Tech Jobs is a user-friendly web application designed to simplify the job search process for prospective employees. 
           The main goal is to provide job seekers with an efficient platform to browse and search job listings with ease. 
@@ -37,6 +37,7 @@ const ProjectDetail3 = () => {
         I also embraced Test-Driven Development (TDD) when creating a custom toString method, promoting thoughtful planning and cleaner code.
         To reduce redundancy, I applied inheritance to follow the "Don't Repeat Yourself" (DRY) principle, enhancing code maintainability.
         I gained experience in database persistence by connecting to MySQL, highlighting the importance of data integrity, security, and efficient data management in real-world applications.
+        <a href="">GitHub Project Link</a>
         </p>
         </div>
       </div>
