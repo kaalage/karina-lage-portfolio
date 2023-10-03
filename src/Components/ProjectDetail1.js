@@ -10,7 +10,7 @@ const ProjectDetail1 = () => {
         <div className='column'>
           <div className='project-detail-container'>
             <h2>Galactic Rides</h2>
-            <h3>Overview</h3>
+            <h3>Overview (<a href="https://github.com/kaalage/star-wars-vehicles">GitHub</a>)</h3>
             <p className='project-detail-overview'>
             Galactic Rides is a personal project that combines the excitement of the Star Wars universe with the convenience of online shopping, and allows users to explore a catalog of iconic vehicles from the Star Wars franchise. 
             </p>
