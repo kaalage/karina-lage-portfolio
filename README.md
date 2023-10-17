@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-https://kaalage.github.io/karina-lage-portfolio/
+https://kaalage.github.io/portfolio
 
 ## Overview
 
