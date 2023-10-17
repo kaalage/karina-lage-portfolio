@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kaalage.github.io/karina-lage-portfolio/",
-  "name": "karina-lage-portfolio",
+  "homepage": "https://kaalage.github.io/portfolio/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

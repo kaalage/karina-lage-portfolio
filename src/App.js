@@ -11,10 +11,10 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
-          <Route exact path="/karina-lage-portfolio" element={<Home />}></Route>
-          <Route path="/karina-lage-portfolio/project1" element={<ProjectDetail1 />}></Route>
-          <Route path="/karina-lage-portfolio/project2" element={<ProjectDetail2 />}></Route>
-          <Route path="/karina-lage-portfolio/project3" element={<ProjectDetail3 />}></Route>
+          <Route exact path="/portfolio" element={<Home />}></Route>
+          <Route path="/portfolio/project1" element={<ProjectDetail1 />}></Route>
+          <Route path="/portfolio/project2" element={<ProjectDetail2 />}></Route>
+          <Route path="/portfolio/project3" element={<ProjectDetail3 />}></Route>
         </Routes>
         <Footer />
       </div>
